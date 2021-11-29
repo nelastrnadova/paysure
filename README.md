@@ -1,4 +1,4 @@
-TODO: SOAP (supposed to accept xml?), swagger, code, tests, readme
+TODO: SOAP (supposed to accept xml?), swagger, finish code, write tests (and actually testing the code itself), readme, logs
 
 REQUIREMENTS: Python3.6+
 
