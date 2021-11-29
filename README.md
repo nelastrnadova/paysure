@@ -1,6 +1,6 @@
 TODO: SOAP (supposed to accept xml?), swagger, code, tests, readme
 
-REQUIREMENTS: None
+REQUIREMENTS: Python3.6+
 
 START: python3 paysure/wsgi.py
 
