@@ -2,7 +2,6 @@ from datetime import date, datetime
 
 from paysure.lib.database import Database
 from paysure.lib.file import File
-from paysure.lib.weather_prediction.actions import GetWeatherInformation
 from paysure.lib.weather_prediction.weather_prediction import DummyWeatherModel
 from paysure.lib.xml import XML
 
